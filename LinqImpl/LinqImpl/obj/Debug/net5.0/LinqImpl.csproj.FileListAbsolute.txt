@@ -1,0 +1,16 @@
+D:\WebApiPractice\LinqImpl\LinqImpl\bin\Debug\net5.0\LinqImpl.exe
+D:\WebApiPractice\LinqImpl\LinqImpl\bin\Debug\net5.0\LinqImpl.deps.json
+D:\WebApiPractice\LinqImpl\LinqImpl\bin\Debug\net5.0\LinqImpl.runtimeconfig.json
+D:\WebApiPractice\LinqImpl\LinqImpl\bin\Debug\net5.0\LinqImpl.runtimeconfig.dev.json
+D:\WebApiPractice\LinqImpl\LinqImpl\bin\Debug\net5.0\LinqImpl.dll
+D:\WebApiPractice\LinqImpl\LinqImpl\bin\Debug\net5.0\ref\LinqImpl.dll
+D:\WebApiPractice\LinqImpl\LinqImpl\bin\Debug\net5.0\LinqImpl.pdb
+D:\WebApiPractice\LinqImpl\LinqImpl\obj\Debug\net5.0\LinqImpl.csproj.AssemblyReference.cache
+D:\WebApiPractice\LinqImpl\LinqImpl\obj\Debug\net5.0\LinqImpl.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApiPractice\LinqImpl\LinqImpl\obj\Debug\net5.0\LinqImpl.AssemblyInfoInputs.cache
+D:\WebApiPractice\LinqImpl\LinqImpl\obj\Debug\net5.0\LinqImpl.AssemblyInfo.cs
+D:\WebApiPractice\LinqImpl\LinqImpl\obj\Debug\net5.0\LinqImpl.csproj.CoreCompileInputs.cache
+D:\WebApiPractice\LinqImpl\LinqImpl\obj\Debug\net5.0\LinqImpl.dll
+D:\WebApiPractice\LinqImpl\LinqImpl\obj\Debug\net5.0\ref\LinqImpl.dll
+D:\WebApiPractice\LinqImpl\LinqImpl\obj\Debug\net5.0\LinqImpl.pdb
+D:\WebApiPractice\LinqImpl\LinqImpl\obj\Debug\net5.0\LinqImpl.genruntimeconfig.cache
