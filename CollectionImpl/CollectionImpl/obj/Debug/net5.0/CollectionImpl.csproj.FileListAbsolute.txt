@@ -1,0 +1,15 @@
+D:\WebApiPractice\CollectionImpl\CollectionImpl\bin\Debug\net5.0\CollectionImpl.exe
+D:\WebApiPractice\CollectionImpl\CollectionImpl\bin\Debug\net5.0\CollectionImpl.deps.json
+D:\WebApiPractice\CollectionImpl\CollectionImpl\bin\Debug\net5.0\CollectionImpl.runtimeconfig.json
+D:\WebApiPractice\CollectionImpl\CollectionImpl\bin\Debug\net5.0\CollectionImpl.runtimeconfig.dev.json
+D:\WebApiPractice\CollectionImpl\CollectionImpl\bin\Debug\net5.0\CollectionImpl.dll
+D:\WebApiPractice\CollectionImpl\CollectionImpl\bin\Debug\net5.0\ref\CollectionImpl.dll
+D:\WebApiPractice\CollectionImpl\CollectionImpl\bin\Debug\net5.0\CollectionImpl.pdb
+D:\WebApiPractice\CollectionImpl\CollectionImpl\obj\Debug\net5.0\CollectionImpl.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApiPractice\CollectionImpl\CollectionImpl\obj\Debug\net5.0\CollectionImpl.AssemblyInfoInputs.cache
+D:\WebApiPractice\CollectionImpl\CollectionImpl\obj\Debug\net5.0\CollectionImpl.AssemblyInfo.cs
+D:\WebApiPractice\CollectionImpl\CollectionImpl\obj\Debug\net5.0\CollectionImpl.csproj.CoreCompileInputs.cache
+D:\WebApiPractice\CollectionImpl\CollectionImpl\obj\Debug\net5.0\CollectionImpl.dll
+D:\WebApiPractice\CollectionImpl\CollectionImpl\obj\Debug\net5.0\ref\CollectionImpl.dll
+D:\WebApiPractice\CollectionImpl\CollectionImpl\obj\Debug\net5.0\CollectionImpl.pdb
+D:\WebApiPractice\CollectionImpl\CollectionImpl\obj\Debug\net5.0\CollectionImpl.genruntimeconfig.cache
