@@ -1,0 +1,16 @@
+D:\WebApiPractice\GenCollectionImpl\GenCollectionImpl\bin\Debug\net5.0\GenCollectionImpl.exe
+D:\WebApiPractice\GenCollectionImpl\GenCollectionImpl\bin\Debug\net5.0\GenCollectionImpl.deps.json
+D:\WebApiPractice\GenCollectionImpl\GenCollectionImpl\bin\Debug\net5.0\GenCollectionImpl.runtimeconfig.json
+D:\WebApiPractice\GenCollectionImpl\GenCollectionImpl\bin\Debug\net5.0\GenCollectionImpl.runtimeconfig.dev.json
+D:\WebApiPractice\GenCollectionImpl\GenCollectionImpl\bin\Debug\net5.0\GenCollectionImpl.dll
+D:\WebApiPractice\GenCollectionImpl\GenCollectionImpl\bin\Debug\net5.0\ref\GenCollectionImpl.dll
+D:\WebApiPractice\GenCollectionImpl\GenCollectionImpl\bin\Debug\net5.0\GenCollectionImpl.pdb
+D:\WebApiPractice\GenCollectionImpl\GenCollectionImpl\obj\Debug\net5.0\GenCollectionImpl.csproj.AssemblyReference.cache
+D:\WebApiPractice\GenCollectionImpl\GenCollectionImpl\obj\Debug\net5.0\GenCollectionImpl.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApiPractice\GenCollectionImpl\GenCollectionImpl\obj\Debug\net5.0\GenCollectionImpl.AssemblyInfoInputs.cache
+D:\WebApiPractice\GenCollectionImpl\GenCollectionImpl\obj\Debug\net5.0\GenCollectionImpl.AssemblyInfo.cs
+D:\WebApiPractice\GenCollectionImpl\GenCollectionImpl\obj\Debug\net5.0\GenCollectionImpl.csproj.CoreCompileInputs.cache
+D:\WebApiPractice\GenCollectionImpl\GenCollectionImpl\obj\Debug\net5.0\GenCollectionImpl.dll
+D:\WebApiPractice\GenCollectionImpl\GenCollectionImpl\obj\Debug\net5.0\ref\GenCollectionImpl.dll
+D:\WebApiPractice\GenCollectionImpl\GenCollectionImpl\obj\Debug\net5.0\GenCollectionImpl.pdb
+D:\WebApiPractice\GenCollectionImpl\GenCollectionImpl\obj\Debug\net5.0\GenCollectionImpl.genruntimeconfig.cache
