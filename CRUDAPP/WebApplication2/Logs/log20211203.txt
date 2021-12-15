@@ -1,0 +1,1 @@
+12/03/2021 12:43:56 +05:30 [] - Message: This is a log in GetAllEmployees()
