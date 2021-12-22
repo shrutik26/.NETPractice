@@ -1,3 +1,4 @@
+using MassTransit;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -8,6 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -48,6 +50,18 @@ namespace WebApplication2
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "WebApplication2", Version = "v1" });
             });
+
+
+            services.AddMassTransit(configure => {
+                configure.UsingRabbitMq((ctx, cfg) =>
+                {
+                    cfg.Host("amqp://guest:guest@localhost:15672");
+                    //cfg.ConfigureEndpoints(ctx);
+                });
+
+
+            });
+            services.AddMassTransitHostedService();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -71,7 +85,22 @@ namespace WebApplication2
                 endpoints.MapControllers();
             });
 
+            var bus = Bus.Factory.CreateUsingRabbitMq(configure =>
+            {
+                configure.Host("amqp://guest:guest@localhost:15672");
+                configure.ReceiveEndpoint( "temp-queue", c => {
+
+                    c.Handler<Order>(ctx =>
+                    {
+                        return Console.Out.WriteLineAsync(ctx.Message.Name);
+                    });
+                });
+            });
+
             AppDbInitializer.Seed(app);
+
+            bus.Start();
+            bus.Publish(new Order { Name = "Test Name" });
         }
     }
 }
