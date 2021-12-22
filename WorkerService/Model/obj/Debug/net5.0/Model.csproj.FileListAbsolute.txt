@@ -1,0 +1,16 @@
+D:\WebApiPractice\WorkerService\Model\bin\Debug\net5.0\Model.exe
+D:\WebApiPractice\WorkerService\Model\bin\Debug\net5.0\Model.deps.json
+D:\WebApiPractice\WorkerService\Model\bin\Debug\net5.0\Model.runtimeconfig.json
+D:\WebApiPractice\WorkerService\Model\bin\Debug\net5.0\Model.runtimeconfig.dev.json
+D:\WebApiPractice\WorkerService\Model\bin\Debug\net5.0\Model.dll
+D:\WebApiPractice\WorkerService\Model\bin\Debug\net5.0\ref\Model.dll
+D:\WebApiPractice\WorkerService\Model\bin\Debug\net5.0\Model.pdb
+D:\WebApiPractice\WorkerService\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+D:\WebApiPractice\WorkerService\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApiPractice\WorkerService\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+D:\WebApiPractice\WorkerService\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+D:\WebApiPractice\WorkerService\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+D:\WebApiPractice\WorkerService\Model\obj\Debug\net5.0\Model.dll
+D:\WebApiPractice\WorkerService\Model\obj\Debug\net5.0\ref\Model.dll
+D:\WebApiPractice\WorkerService\Model\obj\Debug\net5.0\Model.pdb
+D:\WebApiPractice\WorkerService\Model\obj\Debug\net5.0\Model.genruntimeconfig.cache
