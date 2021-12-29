@@ -10,6 +10,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using Model;
+using RabbitMQ.Client;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -55,13 +56,16 @@ namespace WebApplication2
             services.AddMassTransit(configure => {
                 configure.UsingRabbitMq((ctx, cfg) =>
                 {
-                    cfg.Host("amqp://guest:guest@localhost:15672");
-                    //cfg.ConfigureEndpoints(ctx);
+                    cfg.Host("localhost", "/", h =>
+                    {
+                        h.Username("guest");
+                        h.Password("guest");
+                    });
+                    cfg.ExchangeType = ExchangeType.Direct;
                 });
 
-
             });
-            services.AddMassTransitHostedService();
+            services.AddMassTransitHostedService(true);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -87,20 +91,25 @@ namespace WebApplication2
 
             var bus = Bus.Factory.CreateUsingRabbitMq(configure =>
             {
-                configure.Host("amqp://guest:guest@localhost:15672");
-                configure.ReceiveEndpoint( "temp-queue", c => {
 
-                    c.Handler<Order>(ctx =>
-                    {
-                        return Console.Out.WriteLineAsync(ctx.Message.Name);
-                    });
+                configure.Publish<Order>(x =>
+                {
+                    x.Durable = false; 
+                    x.AutoDelete = true; 
+                    x.ExchangeType = "direct";
+
+                });
+
+                configure.Publish<Order>(x =>
+                {
+                    x.Exclude = true; 
                 });
             });
 
             AppDbInitializer.Seed(app);
 
-            bus.Start();
-            bus.Publish(new Order { Name = "Test Name" });
+            //bus.Start();
+            //bus.Publish(new Order { Name = "Shrutik Deshmukh is my name" });
         }
     }
 }

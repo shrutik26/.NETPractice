@@ -28,5 +28,6 @@ namespace WebApplication2.Controllers
             await publishEndpoint.Publish<Order>(order);
             return Ok();
         }
+
     }
 }
