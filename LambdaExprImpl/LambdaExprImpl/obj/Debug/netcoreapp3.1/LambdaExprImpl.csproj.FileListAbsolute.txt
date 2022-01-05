@@ -1,0 +1,11 @@
+D:\.NET_Practice\LambdaExprImpl\LambdaExprImpl\bin\Debug\netcoreapp3.1\LambdaExprImpl.exe
+D:\.NET_Practice\LambdaExprImpl\LambdaExprImpl\bin\Debug\netcoreapp3.1\LambdaExprImpl.deps.json
+D:\.NET_Practice\LambdaExprImpl\LambdaExprImpl\bin\Debug\netcoreapp3.1\LambdaExprImpl.runtimeconfig.json
+D:\.NET_Practice\LambdaExprImpl\LambdaExprImpl\bin\Debug\netcoreapp3.1\LambdaExprImpl.runtimeconfig.dev.json
+D:\.NET_Practice\LambdaExprImpl\LambdaExprImpl\bin\Debug\netcoreapp3.1\LambdaExprImpl.dll
+D:\.NET_Practice\LambdaExprImpl\LambdaExprImpl\bin\Debug\netcoreapp3.1\LambdaExprImpl.pdb
+D:\.NET_Practice\LambdaExprImpl\LambdaExprImpl\obj\Debug\netcoreapp3.1\LambdaExprImpl.csprojAssemblyReference.cache
+D:\.NET_Practice\LambdaExprImpl\LambdaExprImpl\obj\Debug\netcoreapp3.1\LambdaExprImpl.AssemblyInfoInputs.cache
+D:\.NET_Practice\LambdaExprImpl\LambdaExprImpl\obj\Debug\netcoreapp3.1\LambdaExprImpl.AssemblyInfo.cs
+D:\.NET_Practice\LambdaExprImpl\LambdaExprImpl\obj\Debug\netcoreapp3.1\LambdaExprImpl.dll
+D:\.NET_Practice\LambdaExprImpl\LambdaExprImpl\obj\Debug\netcoreapp3.1\LambdaExprImpl.pdb
