@@ -1,0 +1,11 @@
+D:\.NET_Practice\UpcastingImplementation\UpcastingImplementation\bin\Debug\netcoreapp3.1\UpcastingImplementation.exe
+D:\.NET_Practice\UpcastingImplementation\UpcastingImplementation\bin\Debug\netcoreapp3.1\UpcastingImplementation.deps.json
+D:\.NET_Practice\UpcastingImplementation\UpcastingImplementation\bin\Debug\netcoreapp3.1\UpcastingImplementation.runtimeconfig.json
+D:\.NET_Practice\UpcastingImplementation\UpcastingImplementation\bin\Debug\netcoreapp3.1\UpcastingImplementation.runtimeconfig.dev.json
+D:\.NET_Practice\UpcastingImplementation\UpcastingImplementation\bin\Debug\netcoreapp3.1\UpcastingImplementation.dll
+D:\.NET_Practice\UpcastingImplementation\UpcastingImplementation\bin\Debug\netcoreapp3.1\UpcastingImplementation.pdb
+D:\.NET_Practice\UpcastingImplementation\UpcastingImplementation\obj\Debug\netcoreapp3.1\UpcastingImplementation.csprojAssemblyReference.cache
+D:\.NET_Practice\UpcastingImplementation\UpcastingImplementation\obj\Debug\netcoreapp3.1\UpcastingImplementation.AssemblyInfoInputs.cache
+D:\.NET_Practice\UpcastingImplementation\UpcastingImplementation\obj\Debug\netcoreapp3.1\UpcastingImplementation.AssemblyInfo.cs
+D:\.NET_Practice\UpcastingImplementation\UpcastingImplementation\obj\Debug\netcoreapp3.1\UpcastingImplementation.dll
+D:\.NET_Practice\UpcastingImplementation\UpcastingImplementation\obj\Debug\netcoreapp3.1\UpcastingImplementation.pdb
