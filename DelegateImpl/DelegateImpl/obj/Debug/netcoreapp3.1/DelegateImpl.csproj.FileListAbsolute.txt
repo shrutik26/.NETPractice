@@ -1,0 +1,11 @@
+D:\.NET_Practice\DelegateImpl\DelegateImpl\bin\Debug\netcoreapp3.1\DelegateImpl.exe
+D:\.NET_Practice\DelegateImpl\DelegateImpl\bin\Debug\netcoreapp3.1\DelegateImpl.deps.json
+D:\.NET_Practice\DelegateImpl\DelegateImpl\bin\Debug\netcoreapp3.1\DelegateImpl.runtimeconfig.json
+D:\.NET_Practice\DelegateImpl\DelegateImpl\bin\Debug\netcoreapp3.1\DelegateImpl.runtimeconfig.dev.json
+D:\.NET_Practice\DelegateImpl\DelegateImpl\bin\Debug\netcoreapp3.1\DelegateImpl.dll
+D:\.NET_Practice\DelegateImpl\DelegateImpl\bin\Debug\netcoreapp3.1\DelegateImpl.pdb
+D:\.NET_Practice\DelegateImpl\DelegateImpl\obj\Debug\netcoreapp3.1\DelegateImpl.csprojAssemblyReference.cache
+D:\.NET_Practice\DelegateImpl\DelegateImpl\obj\Debug\netcoreapp3.1\DelegateImpl.AssemblyInfoInputs.cache
+D:\.NET_Practice\DelegateImpl\DelegateImpl\obj\Debug\netcoreapp3.1\DelegateImpl.AssemblyInfo.cs
+D:\.NET_Practice\DelegateImpl\DelegateImpl\obj\Debug\netcoreapp3.1\DelegateImpl.dll
+D:\.NET_Practice\DelegateImpl\DelegateImpl\obj\Debug\netcoreapp3.1\DelegateImpl.pdb
