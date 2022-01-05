@@ -1,0 +1,10 @@
+D:\.NET_Practice\StaticClassImplementation\StaticClassImplementation\bin\Debug\netcoreapp3.1\StaticClassImplementation.exe
+D:\.NET_Practice\StaticClassImplementation\StaticClassImplementation\bin\Debug\netcoreapp3.1\StaticClassImplementation.deps.json
+D:\.NET_Practice\StaticClassImplementation\StaticClassImplementation\bin\Debug\netcoreapp3.1\StaticClassImplementation.runtimeconfig.json
+D:\.NET_Practice\StaticClassImplementation\StaticClassImplementation\bin\Debug\netcoreapp3.1\StaticClassImplementation.runtimeconfig.dev.json
+D:\.NET_Practice\StaticClassImplementation\StaticClassImplementation\bin\Debug\netcoreapp3.1\StaticClassImplementation.dll
+D:\.NET_Practice\StaticClassImplementation\StaticClassImplementation\bin\Debug\netcoreapp3.1\StaticClassImplementation.pdb
+D:\.NET_Practice\StaticClassImplementation\StaticClassImplementation\obj\Debug\netcoreapp3.1\StaticClassImplementation.AssemblyInfoInputs.cache
+D:\.NET_Practice\StaticClassImplementation\StaticClassImplementation\obj\Debug\netcoreapp3.1\StaticClassImplementation.AssemblyInfo.cs
+D:\.NET_Practice\StaticClassImplementation\StaticClassImplementation\obj\Debug\netcoreapp3.1\StaticClassImplementation.dll
+D:\.NET_Practice\StaticClassImplementation\StaticClassImplementation\obj\Debug\netcoreapp3.1\StaticClassImplementation.pdb
