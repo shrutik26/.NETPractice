@@ -108,8 +108,8 @@ namespace WebApplication2
 
             AppDbInitializer.Seed(app);
 
-            //bus.Start();
-            //bus.Publish(new Order { Name = "Shrutik Deshmukh is my name" });
+            bus.Start();
+            bus.Publish(new Order { Name = "Shrutik Deshmukh is my name" });
         }
     }
 }
