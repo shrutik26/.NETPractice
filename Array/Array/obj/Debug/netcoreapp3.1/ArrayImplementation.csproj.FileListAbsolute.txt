@@ -1,0 +1,11 @@
+D:\.NET_Practice\Array\Array\bin\Debug\netcoreapp3.1\ArrayImplementation.exe
+D:\.NET_Practice\Array\Array\bin\Debug\netcoreapp3.1\ArrayImplementation.deps.json
+D:\.NET_Practice\Array\Array\bin\Debug\netcoreapp3.1\ArrayImplementation.runtimeconfig.json
+D:\.NET_Practice\Array\Array\bin\Debug\netcoreapp3.1\ArrayImplementation.runtimeconfig.dev.json
+D:\.NET_Practice\Array\Array\bin\Debug\netcoreapp3.1\ArrayImplementation.dll
+D:\.NET_Practice\Array\Array\bin\Debug\netcoreapp3.1\ArrayImplementation.pdb
+D:\.NET_Practice\Array\Array\obj\Debug\netcoreapp3.1\ArrayImplementation.csprojAssemblyReference.cache
+D:\.NET_Practice\Array\Array\obj\Debug\netcoreapp3.1\ArrayImplementation.AssemblyInfoInputs.cache
+D:\.NET_Practice\Array\Array\obj\Debug\netcoreapp3.1\ArrayImplementation.AssemblyInfo.cs
+D:\.NET_Practice\Array\Array\obj\Debug\netcoreapp3.1\ArrayImplementation.dll
+D:\.NET_Practice\Array\Array\obj\Debug\netcoreapp3.1\ArrayImplementation.pdb
