@@ -1,0 +1,10 @@
+D:\.NET_Practice\ListImplementation\ListImplementation\obj\Debug\netcoreapp3.1\ListImplementation.AssemblyInfoInputs.cache
+D:\.NET_Practice\ListImplementation\ListImplementation\obj\Debug\netcoreapp3.1\ListImplementation.AssemblyInfo.cs
+D:\.NET_Practice\ListImplementation\ListImplementation\bin\Debug\netcoreapp3.1\ListImplementation.exe
+D:\.NET_Practice\ListImplementation\ListImplementation\bin\Debug\netcoreapp3.1\ListImplementation.deps.json
+D:\.NET_Practice\ListImplementation\ListImplementation\bin\Debug\netcoreapp3.1\ListImplementation.runtimeconfig.json
+D:\.NET_Practice\ListImplementation\ListImplementation\bin\Debug\netcoreapp3.1\ListImplementation.runtimeconfig.dev.json
+D:\.NET_Practice\ListImplementation\ListImplementation\bin\Debug\netcoreapp3.1\ListImplementation.dll
+D:\.NET_Practice\ListImplementation\ListImplementation\bin\Debug\netcoreapp3.1\ListImplementation.pdb
+D:\.NET_Practice\ListImplementation\ListImplementation\obj\Debug\netcoreapp3.1\ListImplementation.dll
+D:\.NET_Practice\ListImplementation\ListImplementation\obj\Debug\netcoreapp3.1\ListImplementation.pdb
