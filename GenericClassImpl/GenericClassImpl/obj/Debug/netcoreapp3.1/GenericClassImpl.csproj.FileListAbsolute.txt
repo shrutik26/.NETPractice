@@ -1,0 +1,11 @@
+D:\.NET_Practice\GenericClassImpl\GenericClassImpl\obj\Debug\netcoreapp3.1\GenericClassImpl.csprojAssemblyReference.cache
+D:\.NET_Practice\GenericClassImpl\GenericClassImpl\obj\Debug\netcoreapp3.1\GenericClassImpl.AssemblyInfoInputs.cache
+D:\.NET_Practice\GenericClassImpl\GenericClassImpl\obj\Debug\netcoreapp3.1\GenericClassImpl.AssemblyInfo.cs
+D:\.NET_Practice\GenericClassImpl\GenericClassImpl\bin\Debug\netcoreapp3.1\GenericClassImpl.exe
+D:\.NET_Practice\GenericClassImpl\GenericClassImpl\bin\Debug\netcoreapp3.1\GenericClassImpl.deps.json
+D:\.NET_Practice\GenericClassImpl\GenericClassImpl\bin\Debug\netcoreapp3.1\GenericClassImpl.runtimeconfig.json
+D:\.NET_Practice\GenericClassImpl\GenericClassImpl\bin\Debug\netcoreapp3.1\GenericClassImpl.runtimeconfig.dev.json
+D:\.NET_Practice\GenericClassImpl\GenericClassImpl\bin\Debug\netcoreapp3.1\GenericClassImpl.dll
+D:\.NET_Practice\GenericClassImpl\GenericClassImpl\bin\Debug\netcoreapp3.1\GenericClassImpl.pdb
+D:\.NET_Practice\GenericClassImpl\GenericClassImpl\obj\Debug\netcoreapp3.1\GenericClassImpl.dll
+D:\.NET_Practice\GenericClassImpl\GenericClassImpl\obj\Debug\netcoreapp3.1\GenericClassImpl.pdb
