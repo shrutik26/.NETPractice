@@ -1,0 +1,10 @@
+D:\.NET_Practice\AbstractClassImplementation\AbstractClassImplementation\bin\Debug\netcoreapp3.1\AbstractClassImplementation.exe
+D:\.NET_Practice\AbstractClassImplementation\AbstractClassImplementation\bin\Debug\netcoreapp3.1\AbstractClassImplementation.deps.json
+D:\.NET_Practice\AbstractClassImplementation\AbstractClassImplementation\bin\Debug\netcoreapp3.1\AbstractClassImplementation.runtimeconfig.json
+D:\.NET_Practice\AbstractClassImplementation\AbstractClassImplementation\bin\Debug\netcoreapp3.1\AbstractClassImplementation.runtimeconfig.dev.json
+D:\.NET_Practice\AbstractClassImplementation\AbstractClassImplementation\bin\Debug\netcoreapp3.1\AbstractClassImplementation.dll
+D:\.NET_Practice\AbstractClassImplementation\AbstractClassImplementation\bin\Debug\netcoreapp3.1\AbstractClassImplementation.pdb
+D:\.NET_Practice\AbstractClassImplementation\AbstractClassImplementation\obj\Debug\netcoreapp3.1\AbstractClassImplementation.AssemblyInfoInputs.cache
+D:\.NET_Practice\AbstractClassImplementation\AbstractClassImplementation\obj\Debug\netcoreapp3.1\AbstractClassImplementation.AssemblyInfo.cs
+D:\.NET_Practice\AbstractClassImplementation\AbstractClassImplementation\obj\Debug\netcoreapp3.1\AbstractClassImplementation.dll
+D:\.NET_Practice\AbstractClassImplementation\AbstractClassImplementation\obj\Debug\netcoreapp3.1\AbstractClassImplementation.pdb
